@@ -1,2 +1,1 @@
-# neural-sentence-representations
-Train neural network models to obtain sentence representations then use the representations for downstream tasks such as sentiment analysis.
+Please see the [notebook](https://github.com/maartenlb/neural-sentence-representations/blob/main/neural_sentence_representations_code.ipynb) or read the [paper](https://github.com/maartenlb/neural-sentence-representations/blob/main/neural_sentence_representations_paper.pdf) for the full story. :)
